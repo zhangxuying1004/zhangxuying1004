@@ -1,4 +1,4 @@
-### Hi, I'm [Xuying](https://scholar.google.com/citations?user=76_hOG0AAAAJ&hl=zh-CN&oi=sra) 👋
+### Hi, I'm [Xuying](https://zhangxuying1004.github.io/) 👋
 - 🔭 I’m currently a final-year postgraduate student supervised by [Prof. Xiaoshuai Sun](https://scholar.google.com.hk/citations?user=KPMK3B4AAAAJ&hl=zh-CN&oi=ao) and [Prof. Rongrong Ji](https://scholar.google.com.hk/citations?user=lRSD7PQAAAAJ&hl=zh-CN&oi=ao) in Xiamen University.
 - 🌱 I’m currently interested in multi-modal learning, especially in vision and language.
 - 😄 I’m looking for a suitable PhD position.
