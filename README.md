@@ -1,6 +1,6 @@
 ### Hi, I'm [Xu-Ying](https://zhangxuying1004.github.io/) 👋
 👨‍🎓 I am currently a second-year Ph.D. student at Nankai University, supervised by [Prof. Ming-Ming Cheng](https://scholar.google.com/citations?hl=zh-CN&user=huWpVyEAAAAJ). Earlier, I obtained my M.S. degree under the supervision of [Prof. Rongrong Ji](https://scholar.google.com/citations?hl=zh-CN&user=lRSD7PQAAAAJ) and [Prof. Xiaoshuai Sun](https://scholar.google.com/citations?hl=zh-CN&user=KPMK3B4AAAAJ) at Xiamen University.  
-👁️ Recently, I focus on multi-modal learning, camouflaged scene understanding, and NeRF-based 3D vision.  
+👁️ Recently, I focus on multi-modal learning, camouflaged scene understanding, and 3D AIGC.  
 📋 All my research works: [Google scholar](https://scholar.google.com/citations?user=76_hOG0AAAAJ&hl=zh-CN&oi=sra).  
 📫 How to reach me: zhangxuying1004@gmail.com.  
 
